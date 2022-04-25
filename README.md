@@ -1,6 +1,3 @@
-file:///C:/Users/Mustafa%20%C3%87ak%C4%B1r/Desktop/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG
-
-
 # Kodluyoruz İlk repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde  oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
@@ -14,8 +11,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruzilkrepo
-code .
+- cd kodluyoruzilkrepo
+- code .
 
 ## Contributing
 
